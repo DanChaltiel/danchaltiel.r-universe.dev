@@ -1,0 +1,18 @@
+[
+    {
+        "package": "crosstable",
+        "https://github.com/DanChaltiel/crosstable"
+    },
+    {
+        "package": "crosstableAssistant",
+        "https://github.com/DanChaltiel/crosstableAssistant"
+    },
+    {
+        "package": "EDCimport",
+        "https://github.com/DanChaltiel/EDCimport"
+    },
+    {
+        "package": "nih.joinpoint",
+        "https://github.com/DanChaltiel/nih.joinpoint"
+    }
+]
